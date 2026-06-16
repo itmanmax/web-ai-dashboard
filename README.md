@@ -1,7 +1,11 @@
 # Web AI Dashboard
 
-A TypeScript web dashboard experiment for organizing AI model information and related tooling.
+一个用于整理和展示 AI 模型信息的网页仪表盘实验项目。
 
-## Status
+## 项目介绍
 
-This repository is kept public as part of the project portfolio. Future updates should add setup steps, screenshots, and deployment notes where relevant.
+这个仓库保留为公开的 TypeScript 前端项目。它适合作为 AI 工具导航、模型信息面板、内部管理界面的早期实验基础。
+
+## 当前状态
+
+公开保留。后续如果继续维护，建议补充截图、运行步骤、数据来源和功能说明。
